@@ -6,7 +6,8 @@ const countObj = {};  // Here assume all duplicate Elements
 for (const iterator of ar) {
   countObj[iterator] = countObj[iterator] ? countObj[iterator] + 1 : 1;
 }
-const filteredObj = {};  // Filtering element if which isn't only 1 element & if above 1 element found & even it's odd let's minus by 1
+const filteredObj = {};  // Filtering element if which isn't only 1 element 
+& if above 1 element found & even it's odd let's minus by 1
 for (const key in countObj) {
   if (countObj[key] > 1) {
     filteredObj[key] = countObj[key];
