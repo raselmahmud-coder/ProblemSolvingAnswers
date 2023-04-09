@@ -44,7 +44,7 @@
 * Created a 3D product intection feature using React JS and React Fiber library. To view [Click here](https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/delivery_attachments/96f265684386de171923357db258cc7b-1654786777902/3D%20configurator%20for%20e-commerce%20shop.png?__cld_token__=exp=1681070072~hmac=0d566cb905218acee19e2c6b5ceb2c96aca098a8d9f80c0b8b6c2e4f9ef8bc8a)
 
 <h2>Others Challenges design and development using React JS</h2>
- - [x] [Chart.js React Dashboard](https://rm-chartjs-react-dashboard.netlify.app/)
+
  - [x] [Hetali Web](https://hetali-front-end.vercel.app/)
  - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
  - [x] [Social Network](https://atg-social-media.netlify.app/)
