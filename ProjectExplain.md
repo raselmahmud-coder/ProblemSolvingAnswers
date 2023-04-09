@@ -27,7 +27,14 @@
 * Integrate chat feature for visitor interaction.
 * added call booking system to visit this website [Click here](https://growthidea.co.uk/)
 
+## 2Sleekkcollection Shopify Store
+* Front end design from Figma to Shopify.
+* Speed opitization of full website.
+* To view this website template [Click here](https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/delivery_attachments/470bfddfa70ebdba4068645e2b21b827-1606155441726/Accessories-%E2%80%93-2Sleekk-Collection.png?__cld_token__=exp=1681076007~hmac=1a3f3b62c15a77651ef5914798629d6938f778c5d474bc4acb955f12f2a29351)
+
 # Full Stack JavaScript Projects
+
+
 ## Heat Free Hair Store
 * Build a E-Commerce store.
 * Using React, Redux, Node JS, MongoDB, Headless CMS
