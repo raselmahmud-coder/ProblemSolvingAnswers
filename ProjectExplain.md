@@ -24,4 +24,5 @@
 * added call booking system to visit this website [Click here](https://growthidea.co.uk/)
 
 # Full Stack JavaScript Projects
-## Created a 3D product intection feature using React JS and React Fiber library. To view [Click here](https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/delivery_attachments/96f265684386de171923357db258cc7b-1654786777902/3D%20configurator%20for%20e-commerce%20shop.png?__cld_token__=exp=1681070072~hmac=0d566cb905218acee19e2c6b5ceb2c96aca098a8d9f80c0b8b6c2e4f9ef8bc8a)
+## 3D Configurator for ECommerce website
+* Created a 3D product intection feature using React JS and React Fiber library. To view [Click here](https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/delivery_attachments/96f265684386de171923357db258cc7b-1654786777902/3D%20configurator%20for%20e-commerce%20shop.png?__cld_token__=exp=1681070072~hmac=0d566cb905218acee19e2c6b5ceb2c96aca098a8d9f80c0b8b6c2e4f9ef8bc8a)
