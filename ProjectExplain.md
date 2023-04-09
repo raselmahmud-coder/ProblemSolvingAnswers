@@ -49,7 +49,7 @@
  - [x] [Product reviewer](https://rm-assignment-9.netlify.app/)
  - [x] [Social Network](https://atg-social-media.netlify.app/)
 
-# WordPress Web Development
+# WordPress Web Development Projects
 ## Multi Projex NI
 * Purchase premium Theme and created functional website for Netherland Agency.
 * Written custom CSS & JavaScript code for get captcha feaure.
