@@ -12,7 +12,7 @@
 ## Develop ExpenseAnyWhere Compnay Website
 * Convert HTML website to WordPress website using Elementor Pro page builder.
 * Responsive design and custom blog page design.
-* To visit the website <a href="[https://expenseanywhere.com]" target="_blank">example</a>
+* To visit the website <a href="https://expenseanywhere.com" target="_blank">example</a>
 
 ## PhaDoc Web Design & Development
 * Implement the design from simple image drawing to WordPress Design.
