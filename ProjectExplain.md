@@ -33,7 +33,13 @@
 * To view this website template [Click here](https://fiverr-res.cloudinary.com/image/upload/t_collaboration_hd,q_auto,f_auto/v1/secured-attachments/message/delivery_attachments/470bfddfa70ebdba4068645e2b21b827-1606155441726/Accessories-%E2%80%93-2Sleekk-Collection.png?__cld_token__=exp=1681076007~hmac=1a3f3b62c15a77651ef5914798629d6938f778c5d474bc4acb955f12f2a29351)
 
 # Full Stack JavaScript Projects
+## Silencil Vitamin Company
+* Develop Single Page React Application.
+* Strip Payment Integration. To visit this website [Click here](https://www.partnerwithanthony.com/pwa-limited-traffic-bonus)
 
+## Partner With Anthony website
+* Convert a landing page using React and Mailchip
+* To visit the website [Click here](https://www.partnerwithanthony.com/pwa-limited-traffic-bonus)
 
 ## Heat Free Hair Store
 * Build a E-Commerce store.
